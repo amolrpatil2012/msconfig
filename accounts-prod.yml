@@ -5,7 +5,7 @@ spring:
 build:
   version: "3.0"
 
-loans:
+accounts:
   message: "Welcome to HDFCBank loans related prod APIs "
   contactDetails:
     name: "Rahul Dravid - Product Owner"
