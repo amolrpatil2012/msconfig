@@ -6,7 +6,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to HDFCBank Accounts related prod APIs "
+  message: "Welcome to HDFCBank Accounts related Production APIs "
   contactDetails:
     name: "Rahul Dravid - Product Owner"
     email: "rahul@hdfcbank.com"
