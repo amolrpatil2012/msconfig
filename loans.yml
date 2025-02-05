@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to HDFCBank loans related local APIs "
+  contactDetails:
+    name: "Virat Kohli - Developer"
+    email: "virat@hdfcbank.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

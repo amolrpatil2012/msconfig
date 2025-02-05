@@ -1,0 +1,11 @@
+build:
+  version: "1s.0"
+
+cards:
+  message: "Welcome to HDFCBank cards related local APIs "
+  contactDetails:
+    name: "Rohit Sharma - Developer"
+    email: "rohit@hdfcbank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

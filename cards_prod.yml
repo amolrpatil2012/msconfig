@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to HDFCBank cards related prod APIs "
+  contactDetails:
+    name: "Rahul Dravid - Product Owner"
+    email: "rahul@hdfcbank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956

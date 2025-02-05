@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to HDFCBank loans related QA APIs "
+  contactDetails:
+    name: "Sachin Tendulkar - QA Lead"
+    email: "sachin@hdfcbank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
