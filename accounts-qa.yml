@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to HDFCBank loans related QA APIs "
+  message: "Welcome to HDFCBank Accounts related QA APIs "
   contactDetails:
     name: "Sachin Tendulkar - QA Lead"
     email: "sachin@hdfcbank.com"
